@@ -1,0 +1,4 @@
+(2020-11-29 20:22:23) [phasma] Floy: ~delete_lfg phasma
+(2020-11-29 20:22:23) [phasma] message deleted: ~delete_lfg phasma
+(2020-11-29 20:41:36) [phasma] Floy: ~delete_lfg phasma
+(2020-11-29 20:41:36) [phasma] message deleted: ~delete_lfg phasma

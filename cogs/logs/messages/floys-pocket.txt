@@ -1,0 +1,31 @@
+(2020-08-25 14:57:28) [floys-pocket] Floy: oh hi there
+(2020-08-25 14:57:43) [floys-pocket] Floy: ~un_private
+(2020-08-25 14:57:43) [floys-pocket] message deleted: ~un_private
+(2020-08-25 14:58:57) [floys-pocket] Floy: ~un_private
+(2020-08-25 14:58:57) [floys-pocket] message deleted: ~un_private
+(2020-08-25 15:01:11) [floys-pocket] Floy: ~un_private
+(2020-08-25 15:01:11) [floys-pocket] message deleted: ~un_private
+(2020-08-25 15:02:11) [floys-pocket] Floy: ~un_private
+(2020-08-25 15:02:11) [floys-pocket] message deleted: ~un_private
+(2020-08-25 15:03:51) [floys-pocket] Floy: ~un_private
+(2020-08-25 15:03:51) [floys-pocket] message deleted: ~un_private
+(2020-08-25 15:04:54) [floys-pocket] Floy: asdf
+(2020-08-25 15:04:59) [floys-pocket] Floy: ~un_private
+(2020-08-25 15:04:59) [floys-pocket] message deleted: ~un_private
+(2020-08-25 15:08:44) [floys-pocket] Floy: ~help
+(2020-08-25 15:08:44) [floys-pocket] Caribou: 
+(2020-08-25 15:08:46) [floys-pocket] Floy: ~ping
+(2020-08-25 15:08:54) [floys-pocket] Floy: ~hello
+(2020-08-25 15:09:12) [floys-pocket] Floy: ~insult <@!192370343510409216>
+(2020-08-25 15:09:13) [floys-pocket] Caribou: My phone battery lasts longer than Major Grab Ass's relationships.
+(2020-08-25 15:09:24) [floys-pocket] Floy: ~8ball pie?
+(2020-08-25 15:09:24) [floys-pocket] Caribou: Question: pie?
+Answer: As I see it, yes.
+(2020-08-25 15:09:24) [floys-pocket] message deleted: ~8ball pie?
+(2020-08-25 15:09:36) [floys-pocket] Floy: ~zip
+(2020-08-25 15:09:36) [floys-pocket] message deleted: ~zip
+(2020-08-25 15:18:12) [floys-pocket] Floy: asdf
+(2020-08-25 15:18:13) [floys-pocket] Floy: asdf
+(2020-08-25 15:18:13) [floys-pocket] Floy: asdf
+(2020-08-25 15:18:16) [floys-pocket] Floy: ~zip
+(2020-08-25 15:18:17) [floys-pocket] message deleted: ~zip
