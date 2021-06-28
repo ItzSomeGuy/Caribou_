@@ -1,0 +1,35 @@
+(2020-08-22 22:07:02) [workshop-radio] Nyet: !play https://www.youtube.com/watch?v=lmiPH_Q6KYA
+(2020-08-22 22:07:51) [workshop-radio] Donomaxinus: !play https://www.youtube.com/watch?v=oIscL-Bjsq4
+(2020-08-22 22:07:52) [workshop-radio] Rythm: 
+(2020-08-22 22:08:32) [workshop-radio] Nyet: !skip
+(2020-08-22 22:08:32) [workshop-radio] Rythm: **Skipping?** (1/2 people) **`!forceskip` or `!fs` to force**
+(2020-08-22 22:08:36) [workshop-radio] Nyet: !fs
+(2020-08-22 22:10:54) [workshop-radio] Nyet: !play https://www.youtube.com/watch?v=nU21rCWkuJw
+(2020-08-22 22:10:55) [workshop-radio] Rythm: 
+(2020-08-22 22:11:11) [workshop-radio] Nyet: !play https://www.youtube.com/watch?v=aZenmeRytEM
+(2020-08-22 22:11:12) [workshop-radio] Rythm: 
+(2020-08-23 00:14:48) [workshop-radio] Nyet: !play https://www.youtube.com/watch?v=Gtv40bOE3U4&list=RDGtv40bOE3U4&index=1
+(2020-08-23 00:14:50) [workshop-radio] Rythm: 
+(2020-08-23 00:18:32) [workshop-radio] Nyet: !q
+(2020-08-23 00:18:33) [workshop-radio] Rythm: 
+(2020-08-23 00:18:39) [workshop-radio] Nyet: ???
+(2020-08-23 00:18:47) [workshop-radio] Nyet: !fs
+(2020-08-23 00:19:37) [workshop-radio] Nyet: !fs
+(2020-08-23 00:19:58) [workshop-radio] Nyet: !fs
+(2020-08-23 00:24:27) [workshop-radio] Nyet: !play https://www.youtube.com/watch?v=zXSrG0zu348
+(2020-08-23 00:24:28) [workshop-radio] Rythm: 
+(2020-08-23 00:24:39) [workshop-radio] Nyet: !fs
+(2020-08-23 00:25:29) [workshop-radio] Nyet: !clear queue
+(2020-08-23 00:25:34) [workshop-radio] Nyet: !play https://www.youtube.com/watch?v=zXSrG0zu348
+(2020-08-23 00:25:34) [workshop-radio] Rythm: 
+(2020-08-23 00:25:37) [workshop-radio] Nyet: !fs
+(2020-12-07 17:29:27) [workshop-radio] Caribou: Nikol just demoted Joe to resource
+(2020-12-10 14:39:01) [workshop-radio] Caribou: penis
+(2020-12-10 15:19:23) [workshop-radio] Caribou: dick
+(2021-02-22 18:44:54) [workshop-radio] Nyet: !Play https://www.youtube.com/watch?v=dQkZve4_B2A&list=RDGo12Vf6aL60&index=5
+(2021-02-22 18:44:54) [workshop-radio] Rythm: 
+(2021-02-22 19:13:42) [workshop-radio] Nyet: !clear
+(2021-02-22 19:13:45) [workshop-radio] Nyet: !Play https://www.youtube.com/watch?v=Go12Vf6aL60
+(2021-02-22 19:13:45) [workshop-radio] Rythm: 
+(2021-02-22 19:13:47) [workshop-radio] Nyet: !skip
+(2021-02-22 19:23:25) [workshop-radio] Nyet: !play https://www.youtube.com/watch?v=Go12Vf6aL60

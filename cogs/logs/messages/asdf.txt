@@ -1,0 +1,1170 @@
+(2020-07-21 18:39:07) [asdf] Floy: joe sucks
+(2020-07-21 18:39:07) [asdf] Caribou: you right, joe does suck
+(2020-07-21 18:46:09) [asdf] Floy: https://cdn.discordapp.com/attachments/734994499104669819/735266392319983738/6hguo4ryy6c51.png
+(2020-07-21 19:52:47) [asdf] Floy: a
+(2020-07-21 19:54:46) [asdf] Floy: ~reload all
+(2020-07-21 19:54:46) [asdf] Floy deleted: ~reload all
+(2020-07-21 19:58:12) [asdf] Floy: ~reload
+(2020-07-21 19:58:12) [asdf] Floy deleted: ~reload
+(2020-07-21 19:59:11) [asdf] Caribou deleted: 
+(2020-07-21 19:59:16) [asdf] Floy deleted: ~help
+(2020-07-21 20:01:09) [asdf] Caribou: 
+(2020-07-21 20:01:30) [asdf] Floy: reload
+(2020-07-21 20:01:32) [asdf] Floy deleted: ~reload
+(2020-07-21 20:01:34) [asdf] Floy deleted: reload
+(2020-07-21 20:01:35) [asdf] Caribou deleted: 
+(2020-07-21 20:01:37) [asdf] Floy deleted: ~help
+(2020-07-21 20:01:38) [asdf] Floy deleted: ~test
+(2020-07-21 20:05:06) [asdf] Floy: ~reload
+(2020-07-21 20:06:25) [asdf] Floy: boob
+(2020-07-21 20:06:52) [asdf] Floy deleted: boob
+(2020-07-21 20:07:29) [asdf] Floy: ~reload logger
+(2020-07-21 20:07:29) [asdf] message deleted: ~reload logger
+(2020-07-21 20:07:32) [asdf] Floy: a
+(2020-07-21 20:07:34) [asdf] message deleted: a
+(2020-07-22 06:48:26) [asdf] message deleted: ~reload
+(2020-07-23 12:13:32) [asdf] Floy: ~reload wip
+(2020-07-23 12:13:32) [asdf] message deleted: ~reload wip
+(2020-07-23 12:14:30) [asdf] Floy: ~reload wip
+(2020-07-23 12:14:30) [asdf] message deleted: ~reload wip
+(2020-07-23 12:14:40) [asdf] Floy: ~load wip
+(2020-07-23 12:14:40) [asdf] message deleted: ~load wip
+(2020-07-23 12:17:27) [asdf] Floy: ~!reload wip
+(2020-07-23 12:17:31) [asdf] message deleted: ~!reload wip
+(2020-07-23 12:17:36) [asdf] Floy: ~reload wip
+(2020-07-23 12:17:36) [asdf] message deleted: ~reload wip
+(2020-07-23 12:19:03) [asdf] Floy: ~reload wip
+(2020-07-23 12:19:03) [asdf] message deleted: ~reload wip
+(2020-07-23 12:20:37) [asdf] Floy: ~reload wip
+(2020-07-23 12:20:37) [asdf] message deleted: ~reload wip
+(2020-07-23 12:49:31) [asdf] Floy: ~reload wip
+(2020-07-23 12:49:32) [asdf] message deleted: ~reload wip
+(2020-07-23 12:50:07) [asdf] Floy: ~reload wip
+(2020-07-23 12:50:08) [asdf] message deleted: ~reload wip
+(2020-07-23 12:50:56) [asdf] Floy: ~reload wip
+(2020-07-23 12:55:00) [asdf] Floy: ~reload wip
+(2020-07-23 12:55:00) [asdf] message deleted: ~reload wip
+(2020-07-23 12:56:02) [asdf] Floy: ~reload wip
+(2020-07-23 12:56:02) [asdf] message deleted: ~reload wip
+(2020-07-23 12:58:12) [asdf] Floy: ~reload wip
+(2020-07-23 12:58:13) [asdf] message deleted: ~reload wip
+(2020-07-23 13:03:08) [asdf] Floy: ~reload wip
+(2020-07-23 13:03:08) [asdf] message deleted: ~reload wip
+(2020-07-23 13:05:14) [asdf] Floy: ~reload wip
+(2020-07-23 13:05:14) [asdf] message deleted: ~reload wip
+(2020-07-23 13:10:09) [asdf] Floy: ~reload wip
+(2020-07-23 13:10:09) [asdf] message deleted: ~reload wip
+(2020-07-23 13:10:58) [asdf] Floy: ~reload wip
+(2020-07-23 13:10:58) [asdf] message deleted: ~reload wip
+(2020-07-23 13:13:08) [asdf] Floy: ~reload wip
+(2020-07-23 13:13:08) [asdf] message deleted: ~reload wip
+(2020-07-24 16:39:37) [asdf] Floy: ~reload wip
+(2020-07-24 16:39:38) [asdf] message deleted: ~reload wip
+(2020-07-24 16:40:53) [asdf] Floy: ~reload wip
+(2020-07-24 16:40:53) [asdf] message deleted: ~reload wip
+(2020-07-24 16:41:28) [asdf] Floy: ~reload wip
+(2020-07-24 16:41:28) [asdf] message deleted: ~reload wip
+(2020-07-24 16:41:59) [asdf] Floy: ~reload wip
+(2020-07-24 16:41:59) [asdf] message deleted: ~reload wip
+(2020-07-24 16:43:42) [asdf] Floy: ~reload wip
+(2020-07-24 16:43:43) [asdf] message deleted: ~reload wip
+(2020-07-24 16:45:02) [asdf] Floy: ~reload wip
+(2020-07-24 16:45:02) [asdf] message deleted: ~reload wip
+(2020-07-24 16:46:03) [asdf] Floy: ~reload wip
+(2020-07-24 16:46:04) [asdf] message deleted: ~reload wip
+(2020-07-24 16:50:25) [asdf] Floy: ~reload wip
+(2020-07-24 16:50:25) [asdf] message deleted: ~reload wip
+(2020-07-24 16:51:24) [asdf] Floy: ~reload wip
+(2020-07-24 16:51:24) [asdf] message deleted: ~reload wip
+(2020-07-24 16:53:18) [asdf] Floy: ~reload wip
+(2020-07-24 16:53:18) [asdf] message deleted: ~reload wip
+(2020-07-24 16:53:58) [asdf] Floy: ~reload wip
+(2020-07-24 16:53:58) [asdf] message deleted: ~reload wip
+(2020-07-24 16:55:30) [asdf] Floy: ~reload wip
+(2020-07-24 16:55:31) [asdf] message deleted: ~reload wip
+(2020-07-24 16:57:38) [asdf] Floy: ~reload wip
+(2020-07-24 16:57:38) [asdf] message deleted: ~reload wip
+(2020-07-29 18:24:05) [asdf] Floy: ~reload wip
+(2020-07-29 18:24:05) [asdf] message deleted: ~reload wip
+(2020-07-29 18:24:36) [asdf] Floy: ~wip
+(2020-07-29 18:24:36) [asdf] message deleted: ~wip
+(2020-07-29 18:25:25) [asdf] Floy: ~reload wip
+(2020-07-29 18:25:25) [asdf] message deleted: ~reload wip
+(2020-07-29 18:25:28) [asdf] Floy: ~wip
+(2020-07-29 18:25:28) [asdf] message deleted: ~wip
+(2020-07-29 18:26:01) [asdf] Floy: ~reload wip
+(2020-07-29 18:26:01) [asdf] message deleted: ~reload wip
+(2020-07-29 18:26:32) [asdf] Floy: ~reload wip
+(2020-07-29 18:26:32) [asdf] message deleted: ~reload wip
+(2020-07-29 18:26:35) [asdf] Floy: ~wip
+(2020-07-29 18:26:35) [asdf] message deleted: ~wip
+(2020-07-29 18:27:17) [asdf] Floy: ~reload wip
+(2020-07-29 18:27:17) [asdf] message deleted: ~reload wip
+(2020-07-29 18:27:20) [asdf] Floy: ~wip
+(2020-07-29 18:27:20) [asdf] message deleted: ~wip
+(2020-07-29 18:28:09) [asdf] Floy: ~reload wip
+(2020-07-29 18:28:09) [asdf] message deleted: ~reload wip
+(2020-07-29 18:28:12) [asdf] Floy: ~wip
+(2020-07-29 18:28:12) [asdf] message deleted: ~wip
+(2020-07-29 18:30:15) [asdf] Floy: ~wip reload
+(2020-07-29 18:30:16) [asdf] message deleted: ~wip reload
+(2020-07-29 18:30:19) [asdf] Floy: ~wip
+(2020-07-29 18:30:19) [asdf] message deleted: ~wip
+(2020-07-29 18:31:09) [asdf] Floy: ~reload wip
+(2020-07-29 18:31:10) [asdf] message deleted: ~reload wip
+(2020-07-29 18:31:13) [asdf] Floy: wip
+(2020-07-29 18:31:15) [asdf] message deleted: wip
+(2020-07-29 18:31:18) [asdf] Floy: ~wip
+(2020-07-29 18:31:18) [asdf] message deleted: ~wip
+(2020-07-29 18:33:08) [asdf] Floy: ~reload wip
+(2020-07-29 18:33:08) [asdf] message deleted: ~reload wip
+(2020-07-29 18:33:14) [asdf] Floy: ~wip
+(2020-07-29 18:33:14) [asdf] message deleted: ~wip
+(2020-07-29 18:35:52) [asdf] Floy: ~wip
+(2020-07-29 18:35:52) [asdf] message deleted: ~wip
+(2020-07-29 18:37:08) [asdf] Floy: ~reload wip
+(2020-07-29 18:37:08) [asdf] message deleted: ~reload wip
+(2020-07-29 18:37:17) [asdf] Floy: ~wip
+(2020-07-29 18:37:17) [asdf] message deleted: ~wip
+(2020-07-29 18:40:31) [asdf] Floy: ~reload wip
+(2020-07-29 18:40:31) [asdf] message deleted: ~reload wip
+(2020-07-29 18:40:34) [asdf] Floy: ~wip
+(2020-07-29 18:40:34) [asdf] message deleted: ~wip
+(2020-07-29 18:40:50) [asdf] Floy: ~reload wip
+(2020-07-29 18:40:50) [asdf] message deleted: ~reload wip
+(2020-07-29 18:40:53) [asdf] Floy: ~wip
+(2020-07-29 18:40:53) [asdf] message deleted: ~wip
+(2020-07-29 18:44:40) [asdf] Floy: ~reload wip
+(2020-07-29 18:44:41) [asdf] message deleted: ~reload wip
+(2020-07-29 18:53:09) [asdf] Floy: ~reload wip
+(2020-07-29 18:53:09) [asdf] message deleted: ~reload wip
+(2020-07-29 18:53:20) [asdf] Floy: ~unload wip
+(2020-07-29 18:53:20) [asdf] message deleted: ~unload wip
+(2020-08-06 02:36:31) [asdf] Floy: ~unload misc
+(2020-08-06 02:36:31) [asdf] message deleted: ~unload misc
+(2020-08-06 02:43:32) [asdf] Floy: ~load misc
+(2020-08-06 02:43:32) [asdf] message deleted: ~load misc
+(2020-08-06 02:43:43) [asdf] Floy: ~choose cat dog
+(2020-08-06 02:43:43) [asdf] Caribou: dog
+(2020-08-06 02:43:49) [asdf] Floy: ~choose cat dog buffalo
+(2020-08-06 02:43:50) [asdf] Caribou: buffalo
+(2020-08-06 02:43:59) [asdf] Floy: ~choose cat dog buffalo
+(2020-08-06 02:43:59) [asdf] Caribou: cat
+(2020-08-06 02:44:03) [asdf] Floy: ~choose cat dog buffalo
+(2020-08-06 02:44:03) [asdf] Caribou: buffalo
+(2020-08-06 02:44:04) [asdf] Floy: ~choose cat dog buffalo
+(2020-08-06 02:44:05) [asdf] Caribou: buffalo
+(2020-08-06 02:44:06) [asdf] Floy: ~choose cat dog buffalo
+(2020-08-06 02:44:07) [asdf] Caribou: dog
+(2020-08-06 02:44:09) [asdf] message deleted: dog
+(2020-08-06 02:44:10) [asdf] message deleted: ~choose cat dog buffalo
+(2020-08-06 02:44:11) [asdf] message deleted: buffalo
+(2020-08-06 02:44:12) [asdf] message deleted: ~choose cat dog buffalo
+(2020-08-06 02:44:13) [asdf] message deleted: buffalo
+(2020-08-06 02:44:14) [asdf] message deleted: ~choose cat dog buffalo
+(2020-08-06 02:44:15) [asdf] message deleted: cat
+(2020-08-06 02:44:16) [asdf] message deleted: ~choose cat dog buffalo
+(2020-08-06 02:44:17) [asdf] message deleted: buffalo
+(2020-08-06 02:44:18) [asdf] message deleted: ~choose cat dog buffalo
+(2020-08-06 02:44:18) [asdf] message deleted: dog
+(2020-08-06 02:44:19) [asdf] message deleted: ~choose cat dog
+(2020-08-06 16:13:48) [asdf] Floy: ~unload blackjack
+(2020-08-06 16:13:48) [asdf] message deleted: ~unload blackjack
+(2020-08-09 03:50:18) [asdf] Floy: ~csm
+(2020-08-09 03:50:18) [asdf] message deleted: ~csm
+(2020-08-09 03:53:14) [asdf] Floy: ~csm
+(2020-08-09 03:53:14) [asdf] message deleted: ~csm
+(2020-08-09 03:56:32) [asdf] Floy: ~csm
+(2020-08-09 03:56:32) [asdf] message deleted: ~csm
+(2020-08-16 21:10:41) [asdf] Floy: ~reload wip
+(2020-08-16 21:10:41) [asdf] message deleted: ~reload wip
+(2020-08-16 21:10:42) [asdf] Floy: ~wip
+(2020-08-16 21:10:43) [asdf] message deleted: ~wip
+(2020-08-16 21:12:35) [asdf] Floy: ~reload wip
+(2020-08-16 21:12:35) [asdf] message deleted: ~reload wip
+(2020-08-16 21:12:37) [asdf] Floy: ~wip
+(2020-08-16 21:12:37) [asdf] message deleted: ~wip
+(2020-08-18 23:38:56) [asdf] Floy: ```dif 
+top 5 go through
+
+chick with the death wish
+kid dancers
+the wiggler
+
+- trained bacon [boring]
+- the Lego kid [backtrack overdone/couldn't keep me engaged]
+- country girl (country singer) [backtrack overdone/**song didn't feel like a perfect fit**/never had 'the moment']
+                                [let her voice fill the room]
++ chip dip [amazing energy]
++ the wiggler [great energy/brings something new even though the act is simple]
++ chick with the death wish [took an already amazing act (deathe wheel) and made it even more exciting and took it further than I have ever seen before]
+```
+(2020-08-18 23:43:28) [asdf] Floy: ```md
+[chick with the death wish]()
+[kid dancers]()
+[the wiggler]()
+```
+(2020-08-18 23:44:09) [asdf] message deleted: ```md
+[chick with the death wish]()
+[kid dancers]()
+[the wiggler]()
+```
+(2020-08-24 23:36:27) [asdf] Floy: ~reload wip
+(2020-08-24 23:36:27) [asdf] message deleted: ~reload wip
+(2020-08-24 23:36:30) [asdf] Floy: ~wip
+(2020-08-24 23:36:30) [asdf] message deleted: ~wip
+(2020-08-24 23:43:06) [asdf] Floy: ~reload wip
+(2020-08-24 23:43:06) [asdf] message deleted: ~reload wip
+(2020-08-24 23:43:16) [asdf] Floy: ~wip <@!192370343510409216>
+(2020-08-24 23:43:16) [asdf] message deleted: ~wip <@!192370343510409216>
+(2020-08-24 23:44:21) [asdf] Floy: ~reload wip
+(2020-08-24 23:44:21) [asdf] message deleted: ~reload wip
+(2020-08-24 23:44:25) [asdf] Floy: ~wip <@!192370343510409216>
+(2020-08-24 23:44:26) [asdf] message deleted: ~wip <@!192370343510409216>
+(2020-08-24 23:46:00) [asdf] Floy: ~reload
+(2020-08-24 23:46:00) [asdf] message deleted: ~reload
+(2020-08-24 23:46:26) [asdf] Floy: ~reload
+(2020-08-24 23:46:26) [asdf] message deleted: ~reload
+(2020-08-25 02:35:04) [asdf] Floy: ~reload wip
+(2020-08-25 02:35:04) [asdf] message deleted: ~reload wip
+(2020-08-25 02:35:17) [asdf] Floy: ~unload wip
+(2020-08-25 02:35:17) [asdf] message deleted: ~unload wip
+(2020-08-25 02:35:58) [asdf] Floy: ~stalk <@!192370343510409216>
+(2020-08-25 02:35:58) [asdf] message deleted: ~stalk <@!192370343510409216>
+(2020-08-25 02:36:04) [asdf] Floy: ~load wip
+(2020-08-25 02:36:04) [asdf] message deleted: ~load wip
+(2020-08-25 02:38:44) [asdf] Floy: ~load wip
+(2020-08-25 02:38:44) [asdf] message deleted: ~load wip
+(2020-08-25 02:39:23) [asdf] Floy: ~load wip
+(2020-08-25 02:39:23) [asdf] message deleted: ~load wip
+(2020-08-25 02:41:56) [asdf] Floy: ~load wip
+(2020-08-25 02:41:56) [asdf] message deleted: ~load wip
+(2020-08-25 02:44:34) [asdf] Floy: ~load wip
+(2020-08-25 02:44:34) [asdf] message deleted: ~load wip
+(2020-08-25 02:47:37) [asdf] Floy: ~load wip
+(2020-08-25 02:47:37) [asdf] message deleted: ~load wip
+(2020-08-25 02:49:26) [asdf] Floy: ~reload wip
+(2020-08-25 02:49:26) [asdf] message deleted: ~reload wip
+(2020-08-25 02:50:41) [asdf] Floy: ~reload wip
+(2020-08-25 02:50:41) [asdf] message deleted: ~reload wip
+(2020-08-25 02:53:43) [asdf] Floy: ~reload wip
+(2020-08-25 02:53:43) [asdf] message deleted: ~reload wip
+(2020-08-25 02:54:36) [asdf] Floy: ~reload wip
+(2020-08-25 02:54:36) [asdf] message deleted: ~reload wip
+(2020-08-25 03:02:15) [asdf] Floy: ~reload wip
+(2020-08-25 03:02:15) [asdf] message deleted: ~reload wip
+(2020-08-25 03:04:09) [asdf] Floy: ~reload wip
+(2020-08-25 03:04:09) [asdf] message deleted: ~reload wip
+(2020-08-25 03:05:06) [asdf] Floy: ~reload wip
+(2020-08-25 03:05:07) [asdf] message deleted: ~reload wip
+(2020-08-25 03:09:10) [asdf] Floy: ~reload wip
+(2020-08-25 03:09:10) [asdf] message deleted: ~reload wip
+(2020-08-25 03:10:02) [asdf] Floy: ~reload wip
+(2020-08-25 03:10:02) [asdf] message deleted: ~reload wip
+(2020-08-25 03:11:01) [asdf] Floy: ~load wip
+(2020-08-25 03:11:01) [asdf] message deleted: ~load wip
+(2020-08-25 03:11:38) [asdf] Floy: ~reload wip
+(2020-08-25 03:11:38) [asdf] message deleted: ~reload wip
+(2020-08-25 03:12:22) [asdf] Floy: ~reload wip
+(2020-08-25 03:12:22) [asdf] message deleted: ~reload wip
+(2020-08-25 03:14:09) [asdf] Floy: ~reload wip
+(2020-08-25 03:14:16) [asdf] message deleted: ~reload wip
+(2020-08-25 03:14:29) [asdf] Floy: ~reload wip
+(2020-08-25 03:14:29) [asdf] message deleted: ~reload wip
+(2020-08-25 03:22:54) [asdf] Floy: ~reload wip
+(2020-08-25 03:22:54) [asdf] message deleted: ~reload wip
+(2020-08-25 03:45:35) [asdf] Floy: ~reload wip
+(2020-08-25 03:45:35) [asdf] message deleted: ~reload wip
+(2020-08-25 04:07:38) [asdf] Floy: ~reload wip
+(2020-08-25 04:07:38) [asdf] message deleted: ~reload wip
+(2020-08-25 04:10:34) [asdf] Floy: ~reload wip
+(2020-08-25 04:10:34) [asdf] message deleted: ~reload wip
+(2020-08-25 14:54:14) [asdf] Floy: ~reload wip
+(2020-08-25 14:54:15) [asdf] message deleted: ~reload wip
+(2020-08-25 14:54:49) [asdf] Floy: ~private
+(2020-08-25 14:54:49) [asdf] message deleted: ~private
+(2020-08-25 14:56:22) [asdf] Floy: ~private
+(2020-08-25 14:56:23) [asdf] message deleted: ~private
+(2020-08-25 14:57:14) [asdf] Floy: ~private
+(2020-08-25 14:57:14) [asdf] message deleted: ~private
+(2020-08-25 14:58:40) [asdf] Floy: ~private
+(2020-08-25 14:58:40) [asdf] message deleted: ~private
+(2020-08-25 15:00:43) [asdf] Floy: ~private
+(2020-08-25 15:00:44) [asdf] message deleted: ~private
+(2020-08-25 15:02:02) [asdf] Floy: ~private
+(2020-08-25 15:02:02) [asdf] message deleted: ~private
+(2020-08-25 15:03:35) [asdf] Floy: ~private
+(2020-08-25 15:03:35) [asdf] message deleted: ~private
+(2020-08-25 15:04:51) [asdf] Floy: ~private
+(2020-08-25 15:04:51) [asdf] message deleted: ~private
+(2020-08-25 15:05:04) [asdf] Floy: ~private
+(2020-08-25 15:05:04) [asdf] message deleted: ~private
+(2020-08-25 15:05:09) [asdf] Floy: ~un_private
+(2020-08-25 15:05:09) [asdf] message deleted: ~un_private
+(2020-08-25 15:16:55) [asdf] Floy: ~unzip
+(2020-08-25 15:16:55) [asdf] message deleted: ~unzip
+(2020-08-25 15:18:08) [asdf] Floy: ~unzip
+(2020-08-25 15:18:08) [asdf] message deleted: ~unzip
+(2020-08-25 15:24:49) [asdf] Floy: ~choose bacon cheese pizza bagel
+(2020-08-25 15:24:49) [asdf] Caribou: pizza
+(2020-08-25 15:24:54) [asdf] Floy: ~choose bacon cheese pizza bagel
+(2020-08-25 15:24:54) [asdf] Caribou: pizza
+(2020-08-25 15:24:55) [asdf] Floy: ~choose bacon cheese pizza bagel
+(2020-08-25 15:24:55) [asdf] Caribou: cheese
+(2020-08-25 15:24:56) [asdf] Floy: ~choose bacon cheese pizza bagel
+(2020-08-25 15:24:56) [asdf] Caribou: bagel
+(2020-08-25 15:24:56) [asdf] Floy: ~choose bacon cheese pizza bagel
+(2020-08-25 15:24:56) [asdf] Caribou: cheese
+(2020-08-25 15:24:57) [asdf] Floy: ~choose bacon cheese pizza bagel
+(2020-08-25 15:24:57) [asdf] Caribou: bacon
+(2020-08-25 15:24:58) [asdf] Floy: ~choose bacon cheese pizza bagel
+(2020-08-25 15:25:00) [asdf] Caribou: bagel
+(2020-08-25 15:25:12) [asdf] Floy: ~help
+(2020-08-25 15:25:12) [asdf] Caribou: 
+(2020-08-29 21:44:37) [asdf] Floy: ~seize
+(2020-08-29 21:44:38) [asdf] message deleted: ~seize
+(2020-08-29 22:01:22) [asdf] Floy: ~reload wip
+(2020-08-29 22:01:23) [asdf] message deleted: ~reload wip
+(2020-08-29 22:04:37) [asdf] Floy: ~reload wip
+(2020-08-29 22:04:38) [asdf] message deleted: ~reload wip
+(2020-08-29 22:06:01) [asdf] Floy: ~reload wip
+(2020-08-29 22:06:01) [asdf] message deleted: ~reload wip
+(2020-09-01 12:54:52) [asdf] Floy:  https://cdn.discordapp.com/attachments/740820510811881493/750398281405694220/unknown.png
+(2020-09-01 12:55:33) [asdf] Floy:  https://cdn.discordapp.com/attachments/740820510811881493/750398454592700446/unknown.png
+(2020-09-01 13:19:02) [asdf] Floy:  https://cdn.discordapp.com/attachments/740820510811881493/750404365713408070/unknown.png
+(2020-09-14 01:02:51) [asdf] Floy: ~stalk plutoidcos#0353
+(2020-09-14 01:02:51) [asdf] message deleted: ~stalk plutoidcos#0353
+(2020-09-14 01:04:20) [asdf] Floy: ~stalk <@!624571646841454592>
+(2020-09-14 01:04:20) [asdf] message deleted: ~stalk <@!624571646841454592>
+(2020-09-17 18:08:31) [asdf] Floy: ~stalk <@!291705150064689173>
+(2020-09-17 18:08:31) [asdf] message deleted: ~stalk <@!291705150064689173>
+(2020-09-19 20:37:36) [asdf] Floy: ?help
+(2020-09-19 20:37:48) [asdf] message deleted: ?help
+(2020-09-25 15:45:28) [asdf] Floy: ~reload wip
+(2020-09-25 15:45:28) [asdf] message deleted: ~reload wip
+(2020-09-25 15:46:13) [asdf] Floy: ~rename <@!78662784245567488>  jo
+(2020-09-25 15:46:14) [asdf] message deleted: ~rename <@!78662784245567488>  jo
+(2020-09-25 15:46:53) [asdf] Floy: ~reload wip
+(2020-09-25 15:46:53) [asdf] message deleted: ~reload wip
+(2020-09-25 15:47:03) [asdf] Floy: ~rename <@!78662784245567488> jo
+(2020-09-25 15:47:03) [asdf] message deleted: ~rename <@!78662784245567488> jo
+(2020-09-25 15:52:13) [asdf] Floy: ~reload
+(2020-09-25 15:52:13) [asdf] message deleted: ~reload
+(2020-09-25 15:54:16) [asdf] Floy: ~reload wip
+(2020-09-25 15:54:16) [asdf] message deleted: ~reload wip
+(2020-09-29 11:43:43) [asdf] Floy: ~reload official
+(2020-09-29 11:43:43) [asdf] message deleted: ~reload official
+(2020-09-29 17:26:06) [asdf] Floy: ~reload official
+(2020-09-29 17:26:06) [asdf] message deleted: ~reload official
+(2020-09-29 17:26:46) [asdf] Floy: ~reload official
+(2020-09-29 17:26:46) [asdf] message deleted: ~reload official
+(2020-09-29 17:27:38) [asdf] Floy: ~reload official
+(2020-09-29 17:27:38) [asdf] message deleted: ~reload official
+(2020-09-29 17:30:28) [asdf] Floy: ~reload official
+(2020-09-29 17:30:28) [asdf] message deleted: ~reload official
+(2020-10-06 01:51:11) [asdf] Floy: ~stalk <@!183374341285609483>
+(2020-10-06 01:51:11) [asdf] message deleted: ~stalk <@!183374341285609483>
+(2020-10-10 19:59:31) [asdf] Floy: ~stalk <@!158630682560561152>
+(2020-10-10 19:59:31) [asdf] message deleted: ~stalk <@!158630682560561152>
+(2020-10-10 20:26:47) [asdf] Floy: ~reload official
+(2020-10-10 20:26:47) [asdf] message deleted: ~reload official
+(2020-10-10 20:31:18) [asdf] Floy: ~reload official
+(2020-10-10 20:31:18) [asdf] message deleted: ~reload official
+(2020-10-10 20:34:32) [asdf] Floy: ~reload official
+(2020-10-10 20:34:32) [asdf] message deleted: ~reload official
+(2020-10-10 20:35:28) [asdf] Floy: ~reload official
+(2020-10-10 20:35:28) [asdf] message deleted: ~reload official
+(2020-10-10 20:36:35) [asdf] Floy: ~reload official
+(2020-10-10 20:36:35) [asdf] message deleted: ~reload official
+(2020-10-10 20:37:27) [asdf] Floy: ~reload official
+(2020-10-10 20:37:28) [asdf] message deleted: ~reload official
+(2020-10-25 00:16:33) [asdf] Floy: ~stalk @chetto#5377
+(2020-10-25 00:16:33) [asdf] message deleted: ~stalk @chetto#5377
+(2020-10-25 00:17:54) [asdf] Floy: ~stalk <@291705150064689173>5377
+(2020-10-25 00:18:23) [asdf] Floy: ~stalk <@291705150064689173>
+(2020-10-25 00:18:23) [asdf] message deleted: ~stalk <@291705150064689173>
+(2020-10-25 00:18:29) [asdf] message deleted: ~stalk <@291705150064689173>5377
+(2020-11-07 01:30:19) [asdf] Floy: ~update_roles
+(2020-11-07 01:30:19) [asdf] message deleted: ~update_roles
+(2020-11-07 01:31:12) [asdf] Floy: ~update_roles
+(2020-11-07 01:31:12) [asdf] message deleted: ~update_roles
+(2020-11-07 01:32:42) [asdf] Floy: ~update_roles
+(2020-11-07 01:32:42) [asdf] message deleted: ~update_roles
+(2020-11-07 01:33:19) [asdf] Floy: ~update_roles
+(2020-11-07 01:33:19) [asdf] message deleted: ~update_roles
+(2020-11-07 01:34:09) [asdf] Floy: ~update_roles
+(2020-11-07 01:34:09) [asdf] message deleted: ~update_roles
+(2020-11-07 01:35:14) [asdf] Floy: ~update_roles
+(2020-11-07 01:35:30) [asdf] Floy: ~update_roles
+(2020-11-07 01:35:30) [asdf] message deleted: ~update_roles
+(2020-11-07 01:35:33) [asdf] message deleted: ~update_roles
+(2020-11-07 01:36:15) [asdf] Floy: ~update_roles
+(2020-11-07 01:36:15) [asdf] message deleted: ~update_roles
+(2020-11-08 21:21:43) [asdf] Floy: ~stalk <@291705150064689173>
+(2020-11-08 21:21:43) [asdf] message deleted: ~stalk <@291705150064689173>
+(2020-11-20 14:26:44) [asdf] Floy: ~stalk <@194533091602202624>
+(2020-11-20 14:26:45) [asdf] message deleted: ~stalk <@194533091602202624>
+(2020-12-07 17:29:23) [asdf] Caribou: Nikol just demoted Joe to resource
+(2020-12-07 17:53:29) [asdf] Floy: ~reload official
+(2020-12-07 17:53:30) [asdf] message deleted: ~reload official
+(2020-12-07 17:55:17) [asdf] Floy: ~reload official
+(2020-12-07 17:55:17) [asdf] message deleted: ~reload official
+(2020-12-07 17:55:19) [asdf] Floy: ~help
+(2020-12-07 17:55:19) [asdf] Caribou: 
+(2020-12-10 14:20:09) [asdf] Floy: ~torture
+(2020-12-10 14:20:09) [asdf] message deleted: ~torture
+(2020-12-10 14:38:59) [asdf] Caribou: penis
+(2020-12-10 15:18:05) [asdf] Floy: ~announce
+(2020-12-10 15:18:05) [asdf] message deleted: ~announce
+(2020-12-10 15:18:06) [asdf] Caribou: @everyone
+(2020-12-10 15:18:06) [asdf] message deleted: @everyone
+(2020-12-10 15:19:20) [asdf] Caribou: dick
+(2020-12-10 15:21:51) [asdf] message deleted: penis
+(2020-12-10 15:21:53) [asdf] message deleted: dick
+(2020-12-11 23:47:08) [asdf] Floy: ~reload lfg
+(2020-12-11 23:47:08) [asdf] message deleted: ~reload lfg
+(2020-12-11 23:48:33) [asdf] Floy: ~lfg joe's-sock
+(2020-12-11 23:48:34) [asdf] message deleted: ~lfg joe's-sock
+(2020-12-12 00:00:05) [asdf] Floy: ~reload lfg
+(2020-12-12 00:00:05) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:00:37) [asdf] Floy: ~reload lfg
+(2020-12-12 00:00:37) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:04:19) [asdf] Floy: ~reload lfg
+(2020-12-12 00:04:19) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:05:55) [asdf] Floy: ~reload lfg
+(2020-12-12 00:05:55) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:08:53) [asdf] Floy: ~reload lfg
+(2020-12-12 00:08:53) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:10:51) [asdf] Floy: ~reload lfg
+(2020-12-12 00:10:51) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:12:08) [asdf] Floy: ~reload lfg
+(2020-12-12 00:12:08) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:15:44) [asdf] Floy: ~reload lfg
+(2020-12-12 00:15:47) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:15:59) [asdf] Floy: ~reload lfg
+(2020-12-12 00:15:59) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:16:48) [asdf] Floy: ~reload lfg
+(2020-12-12 00:16:48) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:17:28) [asdf] Floy: ~reload lfg
+(2020-12-12 00:17:28) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:17:51) [asdf] Floy: ~reload lfg
+(2020-12-12 00:17:51) [asdf] message deleted: ~reload lfg
+(2020-12-12 00:18:44) [asdf] Floy: ~reload lfg
+(2020-12-12 00:18:44) [asdf] message deleted: ~reload lfg
+(2020-12-15 00:17:52) [asdf] Floy: ~joe is a stupid
+(2020-12-15 00:18:11) [asdf] message deleted: ~JoeHasNoHads
+(2020-12-15 00:18:17) [asdf] Floy: ~joeHasNoHands
+(2020-12-15 00:18:20) [asdf] message deleted: ~joeHasNoHands
+(2020-12-15 00:22:14) [asdf] Floy: ~reload official
+(2020-12-15 00:22:14) [asdf] message deleted: ~reload official
+(2020-12-17 02:01:12) [asdf] Floy: ~reload official
+(2020-12-17 02:01:12) [asdf] message deleted: ~reload official
+(2021-01-14 00:10:36) [asdf] Floy: ~stalk chetto
+(2021-01-14 00:10:36) [asdf] message deleted: ~stalk chetto
+(2021-01-14 00:10:49) [asdf] Floy: ~stalk <@291705150064689173>
+(2021-01-14 00:10:49) [asdf] message deleted: ~stalk <@291705150064689173>
+(2021-01-14 00:11:25) [asdf] Floy: ~stalk <@!291705150064689173>
+(2021-01-14 00:11:25) [asdf] message deleted: ~stalk <@!291705150064689173>
+(2021-01-24 21:59:18) [asdf] Floy: ~stalk @Donomaxinus
+(2021-01-24 21:59:18) [asdf] message deleted: ~stalk @Donomaxinus
+(2021-01-24 21:59:43) [asdf] Floy: ~stalk @Donomaxinus#3502
+(2021-01-24 21:59:43) [asdf] message deleted: ~stalk @Donomaxinus#3502
+(2021-01-24 22:00:10) [asdf] Floy: ~stalk @Donomaxinus
+(2021-01-24 22:00:10) [asdf] message deleted: ~stalk @Donomaxinus
+(2021-01-24 22:36:24) [asdf] Floy: ~stalk @Donomaximus
+(2021-01-24 22:36:25) [asdf] message deleted: ~stalk @Donomaximus
+(2021-01-26 01:06:50) [asdf] Floy: ~reload official
+(2021-01-26 01:06:50) [asdf] message deleted: ~reload official
+(2021-01-26 01:06:54) [asdf] Floy: ~stalk
+(2021-01-26 01:06:54) [asdf] message deleted: ~stalk
+(2021-01-26 01:07:42) [asdf] Floy: ~reload official
+(2021-01-26 01:07:42) [asdf] message deleted: ~reload official
+(2021-01-26 01:07:49) [asdf] Floy: ~stalk <@!192370343510409216>
+(2021-01-26 01:07:50) [asdf] message deleted: ~stalk <@!192370343510409216>
+(2021-01-26 01:08:19) [asdf] Floy: ~reload official
+(2021-01-26 01:08:19) [asdf] message deleted: ~reload official
+(2021-01-26 01:08:24) [asdf] Floy: ~stalk
+(2021-01-26 01:08:24) [asdf] message deleted: ~stalk
+(2021-01-26 01:08:30) [asdf] Floy: ~stalk <@!646448607809241098>
+(2021-01-26 01:08:30) [asdf] message deleted: ~stalk <@!646448607809241098>
+(2021-01-26 01:09:43) [asdf] Floy: ~reload official
+(2021-01-26 01:09:43) [asdf] message deleted: ~reload official
+(2021-01-26 01:09:48) [asdf] Floy: ~stalk <@!192370343510409216>
+(2021-01-26 01:09:48) [asdf] message deleted: ~stalk <@!192370343510409216>
+(2021-01-26 01:10:11) [asdf] Floy: ~stalk <@!158630682560561152>
+(2021-01-26 01:10:11) [asdf] message deleted: ~stalk <@!158630682560561152>
+(2021-01-26 01:11:46) [asdf] Floy: ~reload official
+(2021-01-26 01:11:47) [asdf] message deleted: ~reload official
+(2021-01-26 01:11:50) [asdf] Floy: ~stalk <@!158630682560561152>
+(2021-01-26 01:11:50) [asdf] message deleted: ~stalk <@!158630682560561152>
+(2021-01-26 01:12:29) [asdf] Floy: ~reload official
+(2021-01-26 01:12:29) [asdf] message deleted: ~reload official
+(2021-01-26 01:12:35) [asdf] Floy: ~stalk <@!158630682560561152>
+(2021-01-26 01:12:35) [asdf] message deleted: ~stalk <@!158630682560561152>
+(2021-01-26 01:13:03) [asdf] Floy: ~reload official
+(2021-01-26 01:13:03) [asdf] message deleted: ~reload official
+(2021-01-26 01:13:06) [asdf] Floy: ~stalk <@!158630682560561152>
+(2021-01-26 01:13:06) [asdf] message deleted: ~stalk <@!158630682560561152>
+(2021-01-26 01:17:21) [asdf] Floy: ~reload official
+(2021-01-26 01:17:21) [asdf] message deleted: ~reload official
+(2021-01-26 01:17:33) [asdf] Floy: ~stalk <@158630682560561152>
+(2021-01-26 01:17:33) [asdf] message deleted: ~stalk <@158630682560561152>
+(2021-01-26 01:18:53) [asdf] Floy: ~reload official
+(2021-01-26 01:18:53) [asdf] message deleted: ~reload official
+(2021-01-26 01:19:02) [asdf] Floy: ~stalk Nezumi
+(2021-01-26 01:19:02) [asdf] message deleted: ~stalk Nezumi
+(2021-01-26 01:19:19) [asdf] Floy: ~reload official
+(2021-01-26 01:19:23) [asdf] message deleted: ~reload official
+(2021-01-26 01:19:27) [asdf] Floy: ~reload offical
+(2021-01-26 01:19:27) [asdf] message deleted: ~reload offical
+(2021-01-26 01:19:33) [asdf] Floy: ~load offical
+(2021-01-26 01:19:33) [asdf] message deleted: ~load offical
+(2021-01-26 01:19:44) [asdf] Floy: ~reload official
+(2021-01-26 01:19:44) [asdf] message deleted: ~reload official
+(2021-01-26 01:19:54) [asdf] Floy: ~stalk Nezumi
+(2021-01-26 01:19:54) [asdf] message deleted: ~stalk Nezumi
+(2021-01-26 01:20:34) [asdf] Floy: ~reload official
+(2021-01-26 01:20:34) [asdf] message deleted: ~reload official
+(2021-01-26 01:20:38) [asdf] Floy: ~stalk Nezumi
+(2021-01-26 01:20:38) [asdf] message deleted: ~stalk Nezumi
+(2021-01-26 01:23:14) [asdf] Floy: ~reload official
+(2021-01-26 01:23:14) [asdf] message deleted: ~reload official
+(2021-01-26 01:23:24) [asdf] Floy: ~stalk 158630682560561152
+(2021-01-26 01:23:25) [asdf] message deleted: ~stalk 158630682560561152
+(2021-01-26 01:27:24) [asdf] Floy: ~reload official
+(2021-01-26 01:27:25) [asdf] message deleted: ~reload official
+(2021-01-26 01:27:34) [asdf] Floy: ~stalk Nezumi
+(2021-01-26 01:27:34) [asdf] message deleted: ~stalk Nezumi
+(2021-01-26 01:28:01) [asdf] Floy: ~reload official
+(2021-01-26 01:28:02) [asdf] message deleted: ~reload official
+(2021-01-26 01:28:06) [asdf] Floy: ~stalk Nezumi
+(2021-01-26 01:28:06) [asdf] message deleted: ~stalk Nezumi
+(2021-01-26 01:29:02) [asdf] Floy: ~reload official
+(2021-01-26 01:29:02) [asdf] message deleted: ~reload official
+(2021-01-26 01:29:08) [asdf] Floy: ~stalk Nezumi
+(2021-01-26 01:29:08) [asdf] message deleted: ~stalk Nezumi
+(2021-01-26 01:29:19) [asdf] Floy: ~reload official
+(2021-01-26 01:29:19) [asdf] message deleted: ~reload official
+(2021-01-26 01:29:23) [asdf] Floy: ~stalk Nezumi
+(2021-01-26 01:29:23) [asdf] message deleted: ~stalk Nezumi
+(2021-01-26 01:29:38) [asdf] Floy: ~reload official
+(2021-01-26 01:29:38) [asdf] message deleted: ~reload official
+(2021-01-26 01:30:55) [asdf] Floy: ~stalk Titan
+(2021-01-26 01:30:55) [asdf] message deleted: ~stalk Titan
+(2021-01-26 01:31:53) [asdf] Floy: ~stalk Donomaxinus
+(2021-01-26 01:31:53) [asdf] message deleted: ~stalk Donomaxinus
+(2021-01-26 01:32:09) [asdf] Floy: ~reload official
+(2021-01-26 01:32:09) [asdf] message deleted: ~reload official
+(2021-01-26 18:31:57) [asdf] Floy: ~stall chetto
+(2021-01-26 18:32:02) [asdf] message deleted: ~stall chetto
+(2021-01-26 18:32:09) [asdf] Floy: ~stalk chetto
+(2021-01-26 18:32:09) [asdf] message deleted: ~stalk chetto
+(2021-02-09 15:37:51) [asdf] Floy: ~stalk Nezumi
+(2021-02-09 15:37:51) [asdf] message deleted: ~stalk Nezumi
+(2021-02-13 01:38:34) [asdf] Floy: ~stalk Donomaxinus
+(2021-02-13 01:38:35) [asdf] message deleted: ~stalk Donomaxinus
+(2021-03-16 11:49:51) [asdf] Floy: ~reload wip
+(2021-03-16 11:49:51) [asdf] message deleted: ~reload wip
+(2021-03-16 11:49:55) [asdf] Floy: ~track
+(2021-03-16 11:50:26) [asdf] message deleted: ~track
+(2021-03-16 11:51:20) [asdf] Floy: ~reload wip
+(2021-03-16 11:51:20) [asdf] message deleted: ~reload wip
+(2021-03-16 11:51:23) [asdf] Floy: ~track
+(2021-03-16 11:51:24) [asdf] message deleted: ~track
+(2021-03-16 11:52:31) [asdf] Floy: ~reload wip
+(2021-03-16 11:52:31) [asdf] message deleted: ~reload wip
+(2021-03-16 11:52:33) [asdf] Floy: ~track
+(2021-03-16 11:52:33) [asdf] message deleted: ~track
+(2021-03-16 11:53:08) [asdf] Floy: ~reload wip
+(2021-03-16 11:53:08) [asdf] message deleted: ~reload wip
+(2021-03-16 11:53:10) [asdf] Floy: ~track
+(2021-03-16 11:53:10) [asdf] message deleted: ~track
+(2021-03-16 11:54:47) [asdf] Floy: ~reload wip
+(2021-03-16 11:54:47) [asdf] message deleted: ~reload wip
+(2021-03-16 11:54:51) [asdf] Floy: ~track
+(2021-03-16 11:54:51) [asdf] message deleted: ~track
+(2021-03-16 11:55:41) [asdf] Floy: ~reload wip
+(2021-03-16 11:55:42) [asdf] message deleted: ~reload wip
+(2021-03-16 11:55:46) [asdf] Floy: ~track
+(2021-03-16 11:55:46) [asdf] message deleted: ~track
+(2021-03-16 11:56:01) [asdf] Floy: ~reload wip
+(2021-03-16 11:56:01) [asdf] message deleted: ~reload wip
+(2021-03-16 11:56:04) [asdf] Floy: ~track
+(2021-03-16 11:56:04) [asdf] message deleted: ~track
+(2021-03-16 11:56:56) [asdf] Floy: ~reload wip
+(2021-03-16 11:56:57) [asdf] message deleted: ~reload wip
+(2021-03-16 11:56:59) [asdf] Floy: ~track
+(2021-03-16 11:56:59) [asdf] message deleted: ~track
+(2021-03-16 11:58:05) [asdf] Floy: ~reload wip
+(2021-03-16 11:58:05) [asdf] message deleted: ~reload wip
+(2021-03-16 11:58:07) [asdf] Floy: ~track
+(2021-03-16 11:58:07) [asdf] message deleted: ~track
+(2021-03-16 12:00:37) [asdf] Floy: ~track
+(2021-03-16 12:00:37) [asdf] message deleted: ~track
+(2021-03-16 12:01:50) [asdf] Floy: ~reload wip
+(2021-03-16 12:01:51) [asdf] message deleted: ~reload wip
+(2021-03-16 12:01:53) [asdf] Floy: ~track
+(2021-03-16 12:01:53) [asdf] message deleted: ~track
+(2021-03-16 12:02:09) [asdf] Floy: ~reload wip
+(2021-03-16 12:02:10) [asdf] message deleted: ~reload wip
+(2021-03-16 12:02:13) [asdf] Floy: ~track
+(2021-03-16 12:02:13) [asdf] message deleted: ~track
+(2021-03-16 12:04:56) [asdf] Floy: ~reload wip
+(2021-03-16 12:04:56) [asdf] message deleted: ~reload wip
+(2021-03-16 12:04:59) [asdf] Floy: ~track
+(2021-03-16 12:04:59) [asdf] message deleted: ~track
+(2021-03-16 12:05:48) [asdf] Floy: ~reload wip
+(2021-03-16 12:05:48) [asdf] message deleted: ~reload wip
+(2021-03-16 12:05:50) [asdf] Floy: ~track
+(2021-03-16 16:52:27) [asdf] Floy: ~track
+(2021-03-16 16:52:27) [asdf] message deleted: ~track
+(2021-03-16 16:53:13) [asdf] Floy: ~track
+(2021-03-16 16:53:13) [asdf] message deleted: ~track
+(2021-03-16 16:53:47) [asdf] Floy: ~track
+(2021-03-16 16:53:47) [asdf] message deleted: ~track
+(2021-04-10 20:44:52) [asdf] Floy: ~reload wip
+(2021-04-10 20:44:52) [asdf] message deleted: ~reload wip
+(2021-04-10 20:45:00) [asdf] Floy: ~mute <@!192370343510409216>
+(2021-04-10 20:45:00) [asdf] message deleted: ~mute <@!192370343510409216>
+(2021-04-10 20:45:58) [asdf] Floy: ~reload wip
+(2021-04-10 20:45:58) [asdf] message deleted: ~reload wip
+(2021-04-30 15:12:40) [asdf] Floy: ~lfg echo-vr
+(2021-04-30 15:12:40) [asdf] message deleted: ~lfg echo-vr
+(2021-05-05 20:18:48) [asdf] Floy: ~reload wip
+(2021-05-05 20:18:48) [asdf] message deleted: ~reload wip
+(2021-05-05 20:19:01) [asdf] Floy: ~join
+(2021-05-05 20:19:01) [asdf] message deleted: ~join
+(2021-05-05 20:20:34) [asdf] Floy: ~join
+(2021-05-05 20:20:35) [asdf] message deleted: ~join
+(2021-05-05 20:21:08) [asdf] Floy: ~join
+(2021-05-05 20:21:08) [asdf] message deleted: ~join
+(2021-05-05 20:21:26) [asdf] Floy: ~leave
+(2021-05-05 20:21:26) [asdf] message deleted: ~leave
+(2021-05-05 20:23:18) [asdf] Floy: ~reload wip
+(2021-05-05 20:23:19) [asdf] message deleted: ~reload wip
+(2021-05-05 20:23:23) [asdf] Floy: ~leave
+(2021-05-05 20:23:23) [asdf] message deleted: ~leave
+(2021-05-05 20:42:18) [asdf] Floy: ~reload wip
+(2021-05-05 20:42:18) [asdf] message deleted: ~reload wip
+(2021-05-05 20:42:37) [asdf] Floy: ~talk
+(2021-05-05 20:42:37) [asdf] message deleted: ~talk
+(2021-05-05 20:43:35) [asdf] Floy: ~talk
+(2021-05-05 20:43:39) [asdf] message deleted: ~talk
+(2021-05-05 20:44:22) [asdf] Floy: ~reload wip
+(2021-05-05 20:44:22) [asdf] message deleted: ~reload wip
+(2021-05-05 20:44:25) [asdf] Floy: ~talk
+(2021-05-05 20:44:25) [asdf] message deleted: ~talk
+(2021-05-05 20:44:37) [asdf] Floy: ~leave
+(2021-05-05 20:44:37) [asdf] message deleted: ~leave
+(2021-05-05 20:46:27) [asdf] Floy: ~reload wip
+(2021-05-05 20:46:27) [asdf] message deleted: ~reload wip
+(2021-05-05 20:46:31) [asdf] Floy: ~talk
+(2021-05-05 20:46:31) [asdf] message deleted: ~talk
+(2021-05-05 20:47:36) [asdf] Floy: ~talk
+(2021-05-05 20:47:36) [asdf] message deleted: ~talk
+(2021-05-05 20:48:42) [asdf] Floy: ~reload wip
+(2021-05-05 20:48:42) [asdf] message deleted: ~reload wip
+(2021-05-05 20:48:46) [asdf] Floy: ~leave
+(2021-05-05 20:48:46) [asdf] message deleted: ~leave
+(2021-05-05 20:48:50) [asdf] Floy: ~talk
+(2021-05-05 20:48:56) [asdf] message deleted: ~talk
+(2021-05-05 20:49:40) [asdf] Floy: ~reload wip
+(2021-05-05 20:49:40) [asdf] message deleted: ~reload wip
+(2021-05-05 20:49:42) [asdf] Floy: ~leave
+(2021-05-05 20:49:43) [asdf] message deleted: ~leave
+(2021-05-05 20:49:45) [asdf] Floy: ~talk
+(2021-05-05 20:49:51) [asdf] message deleted: ~talk
+(2021-05-05 20:50:50) [asdf] Floy: ~reload wip
+(2021-05-05 20:50:50) [asdf] message deleted: ~reload wip
+(2021-05-05 20:50:52) [asdf] Floy: ~leave
+(2021-05-05 20:50:53) [asdf] message deleted: ~leave
+(2021-05-05 20:50:55) [asdf] Floy: ~talk
+(2021-05-05 20:50:56) [asdf] message deleted: ~talk
+(2021-05-05 20:52:37) [asdf] Floy: ~reload wip
+(2021-05-05 20:52:38) [asdf] message deleted: ~reload wip
+(2021-05-05 20:52:46) [asdf] Floy: ~talk
+(2021-05-05 20:52:52) [asdf] message deleted: ~talk
+(2021-05-05 21:09:07) [asdf] Floy: ~reload wip
+(2021-05-05 21:09:07) [asdf] message deleted: ~reload wip
+(2021-05-05 21:09:38) [asdf] Floy: ~play https://www.youtube.com/watch?v=siloF1sWxlk
+(2021-05-05 21:09:38) [asdf] message deleted: ~play https://www.youtube.com/watch?v=siloF1sWxlk
+(2021-05-05 21:09:48) [asdf] Floy: ~leave
+(2021-05-05 21:09:48) [asdf] message deleted: ~leave
+(2021-05-05 21:10:01) [asdf] Floy: ~talk
+(2021-05-05 21:10:01) [asdf] message deleted: ~talk
+(2021-05-05 21:19:51) [asdf] Floy: ~talk
+(2021-05-05 21:19:51) [asdf] message deleted: ~talk
+(2021-05-05 21:21:45) [asdf] Floy: ~reload wip
+(2021-05-05 21:21:46) [asdf] message deleted: ~reload wip
+(2021-05-05 21:21:55) [asdf] Floy: ~say joe sucks
+(2021-05-05 21:21:56) [asdf] message deleted: ~say joe sucks
+(2021-05-05 21:23:34) [asdf] Floy: ~reload wip
+(2021-05-05 21:23:34) [asdf] message deleted: ~reload wip
+(2021-05-05 21:23:47) [asdf] Floy: ~say andu should wear hats more
+(2021-05-05 21:23:48) [asdf] message deleted: ~say andu should wear hats more
+(2021-05-05 21:26:58) [asdf] Floy: ~reload wip
+(2021-05-05 21:26:58) [asdf] message deleted: ~reload wip
+(2021-05-05 21:27:06) [asdf] Floy: ~say andu should wear hats more
+(2021-05-05 21:27:06) [asdf] message deleted: ~say andu should wear hats more
+(2021-05-05 21:28:24) [asdf] Floy: ~reload wip
+(2021-05-05 21:28:24) [asdf] message deleted: ~reload wip
+(2021-05-05 21:28:30) [asdf] Floy: ~say welcome back j rad
+(2021-05-05 21:28:30) [asdf] message deleted: ~say welcome back j rad
+(2021-05-05 21:30:12) [asdf] Floy: ~reload wipp
+(2021-05-05 21:30:12) [asdf] message deleted: ~reload wipp
+(2021-05-05 21:30:19) [asdf] Floy: ~reload wip
+(2021-05-05 21:30:19) [asdf] message deleted: ~reload wip
+(2021-05-05 21:30:26) [asdf] Floy: ~say hello there j rad
+(2021-05-05 21:30:27) [asdf] message deleted: ~say hello there j rad
+(2021-05-05 21:31:21) [asdf] Floy: ~reload wip
+(2021-05-05 21:31:21) [asdf] message deleted: ~reload wip
+(2021-05-05 21:31:31) [asdf] Floy: ~say nicole has colourful hair
+(2021-05-05 21:31:31) [asdf] message deleted: ~say nicole has colourful hair
+(2021-05-05 21:32:42) [asdf] Floy: ~reload wipp
+(2021-05-05 21:32:42) [asdf] message deleted: ~reload wipp
+(2021-05-05 21:32:48) [asdf] Floy: ~reload wip
+(2021-05-05 21:32:48) [asdf] message deleted: ~reload wip
+(2021-05-05 21:32:59) [asdf] Floy: ~say j rad is a loser
+(2021-05-05 21:32:59) [asdf] message deleted: ~say j rad is a loser
+(2021-05-05 21:33:17) [asdf] Floy: ~reload wip
+(2021-05-05 21:33:18) [asdf] message deleted: ~reload wip
+(2021-05-05 21:34:50) [asdf] Floy: ~say that is sad
+(2021-05-05 21:34:51) [asdf] message deleted: ~say that is sad
+(2021-05-05 21:35:10) [asdf] Floy: ~say welcome to chipset k dawg
+(2021-05-05 21:35:11) [asdf] message deleted: ~say welcome to chipset k dawg
+(2021-05-05 21:35:54) [asdf] Floy: ~say why will you not speak lawr?
+(2021-05-05 21:35:54) [asdf] message deleted: ~say why will you not speak lawr?
+(2021-05-05 21:36:48) [asdf] Floy: ~say how long did it take me to make this sad thing?
+(2021-05-05 21:36:48) [asdf] message deleted: ~say how long did it take me to make this sad thing?
+(2021-05-05 21:38:45) [asdf] Floy: ~reload wip
+(2021-05-05 21:38:45) [asdf] message deleted: ~reload wip
+(2021-05-05 21:39:12) [asdf] Floy: ~say howdy there bageel tld=com
+(2021-05-05 21:39:12) [asdf] message deleted: ~say howdy there bageel tld=com
+(2021-05-05 21:39:58) [asdf] Floy: ~reload wip
+(2021-05-05 21:40:01) [asdf] message deleted: ~reload wip
+(2021-05-05 21:40:04) [asdf] Floy: ~reload wip
+(2021-05-05 21:40:04) [asdf] message deleted: ~reload wip
+(2021-05-05 21:41:37) [asdf] Floy: ~reload wip
+(2021-05-05 21:41:37) [asdf] message deleted: ~reload wip
+(2021-05-05 21:41:47) [asdf] Floy: ~say howdy there people folk
+(2021-05-05 21:41:47) [asdf] message deleted: ~say howdy there people folk
+(2021-05-05 21:44:26) [asdf] Floy: ~reload wip
+(2021-05-05 21:44:26) [asdf] message deleted: ~reload wip
+(2021-05-05 21:44:59) [asdf] Floy: ~say now this fish here. this is the kind of fish that I was talking about. Oop sorry.
+(2021-05-05 21:44:59) [asdf] message deleted: ~say now this fish here. this is the kind of fish that I was talking about. Oop sorry.
+(2021-05-05 21:45:23) [asdf] Floy: ~reload wip
+(2021-05-05 21:45:24) [asdf] message deleted: ~reload wip
+(2021-05-05 21:45:31) [asdf] Floy: ~say now this fish here. this is the kind of fish that I was talking about. Oop sorry.
+(2021-05-05 21:45:32) [asdf] message deleted: ~say now this fish here. this is the kind of fish that I was talking about. Oop sorry.
+(2021-05-05 21:45:59) [asdf] Floy: ~reload wip
+(2021-05-05 21:45:59) [asdf] message deleted: ~reload wip
+(2021-05-05 21:46:02) [asdf] Floy: ~say now this fish here. this is the kind of fish that I was talking about. Oop sorry.
+(2021-05-05 21:46:03) [asdf] message deleted: ~say now this fish here. this is the kind of fish that I was talking about. Oop sorry.
+(2021-05-05 21:46:51) [asdf] Floy: ~reload wip
+(2021-05-05 21:46:51) [asdf] message deleted: ~reload wip
+(2021-05-05 21:46:57) [asdf] Floy: ~say now this fish here. this is the kind of fish that I was talking about
+(2021-05-05 21:46:57) [asdf] message deleted: ~say now this fish here. this is the kind of fish that I was talking about
+(2021-05-05 21:47:30) [asdf] Floy: ~reload wip
+(2021-05-05 21:47:30) [asdf] message deleted: ~reload wip
+(2021-05-05 21:49:11) [asdf] Floy: ~reload wip
+(2021-05-05 21:49:11) [asdf] message deleted: ~reload wip
+(2021-05-05 21:49:16) [asdf] Floy: ~say hello there people
+(2021-05-05 21:49:16) [asdf] message deleted: ~say hello there people
+(2021-05-05 21:49:48) [asdf] Floy: ~reload wip
+(2021-05-05 21:49:48) [asdf] message deleted: ~reload wip
+(2021-05-05 21:49:52) [asdf] Floy: ~say howdy there people
+(2021-05-05 21:49:52) [asdf] message deleted: ~say howdy there people
+(2021-05-05 21:50:40) [asdf] Floy: ~reload wipp
+(2021-05-05 21:50:40) [asdf] message deleted: ~reload wipp
+(2021-05-05 21:50:43) [asdf] Floy: ~reload wip
+(2021-05-05 21:50:43) [asdf] message deleted: ~reload wip
+(2021-05-05 21:50:50) [asdf] Floy: ~say andu is a good person who likes fish
+(2021-05-05 21:50:51) [asdf] message deleted: ~say andu is a good person who likes fish
+(2021-05-05 21:51:59) [asdf] Floy: ~reload wip
+(2021-05-05 21:51:59) [asdf] message deleted: ~reload wip
+(2021-05-05 21:52:21) [asdf] Floy: ~reload wipp
+(2021-05-05 21:52:21) [asdf] message deleted: ~reload wipp
+(2021-05-05 21:52:24) [asdf] Floy: ~reload wip
+(2021-05-05 21:52:24) [asdf] message deleted: ~reload wip
+(2021-05-05 21:52:55) [asdf] Floy: ~reload wip
+(2021-05-05 21:52:55) [asdf] message deleted: ~reload wip
+(2021-05-05 21:59:14) [asdf] Floy: ~reload wipp
+(2021-05-05 21:59:14) [asdf] message deleted: ~reload wipp
+(2021-05-05 21:59:17) [asdf] Floy: ~reload wip
+(2021-05-05 21:59:17) [asdf] message deleted: ~reload wip
+(2021-05-05 21:59:20) [asdf] Floy: ~wtf
+(2021-05-05 21:59:20) [asdf] message deleted: ~wtf
+(2021-05-05 21:59:41) [asdf] Floy: ~wtf
+(2021-05-05 21:59:41) [asdf] message deleted: ~wtf
+(2021-05-05 22:00:43) [asdf] Floy: ~reload wip
+(2021-05-05 22:00:43) [asdf] message deleted: ~reload wip
+(2021-05-05 22:51:22) [asdf] Floy: ~wtf
+(2021-05-05 22:51:22) [asdf] message deleted: ~wtf
+(2021-05-05 22:53:27) [asdf] Floy: ~reload wip
+(2021-05-05 22:53:27) [asdf] message deleted: ~reload wip
+(2021-05-05 22:53:30) [asdf] Floy: ~wtf
+(2021-05-05 22:53:31) [asdf] message deleted: ~wtf
+(2021-05-05 22:53:51) [asdf] Floy: ~reload wip
+(2021-05-05 22:53:52) [asdf] message deleted: ~reload wip
+(2021-05-05 22:53:53) [asdf] Floy: ~leave
+(2021-05-05 22:53:53) [asdf] message deleted: ~leave
+(2021-05-05 23:15:09) [asdf] Floy: ~reload wip
+(2021-05-05 23:15:09) [asdf] message deleted: ~reload wip
+(2021-05-05 23:15:22) [asdf] Floy: ~reload wip
+(2021-05-05 23:15:22) [asdf] message deleted: ~reload wip
+(2021-05-05 23:19:33) [asdf] Floy: ~say are you hiding things joe?
+(2021-05-05 23:19:33) [asdf] message deleted: ~say are you hiding things joe?
+(2021-05-05 23:20:45) [asdf] Floy: ~talk
+(2021-05-05 23:20:46) [asdf] message deleted: ~talk
+(2021-05-05 23:29:49) [asdf] Floy: ~wtf
+(2021-05-05 23:29:49) [asdf] message deleted: ~wtf
+(2021-05-05 23:37:06) [asdf] Floy: ~reload wip
+(2021-05-05 23:37:06) [asdf] message deleted: ~reload wip
+(2021-05-05 23:37:10) [asdf] Floy: ~reload official
+(2021-05-05 23:37:10) [asdf] message deleted: ~reload official
+(2021-05-05 23:46:28) [asdf] Floy: ~say According to all known laws
+of aviation,
+
+  
+there is no way a bee
+should be able to fly.
+
+  
+Its wings are too small to get
+its fat little body off the ground.
+
+  
+The bee, of course, flies anyway
+
+  
+because bees don't care
+what humans think is impossible.
+
+  
+Yellow, black. Yellow, black.
+Yellow, black. Yellow, black.
+
+  
+Ooh, black and yellow!
+Let's shake it up a little.
+
+  
+Barry! Breakfast is ready!
+
+  
+Ooming!
+
+  
+Hang on a second.
+
+  
+Hello?
+
+  
+- Barry?
+- Adam?
+
+  
+- Oan you believe this is happening?
+- I can't. I'll pick you up.
+
+  
+Looking sharp.
+
+  
+Use the stairs. Your father
+paid good money for those.
+
+  
+Sorry. I'm excited.
+
+  
+Here's the graduate.
+We're very proud of you, son.
+
+  
+A perfect report card, all B's.
+
+  
+Very proud.
+
+  
+Ma! I got a thing going here.
+
+  
+- You got lint on your fuzz.
+- Ow! That's me!
+
+  
+- Wave to us! We'll be in row 118,000.
+- Bye!
+
+  
+Barry, I told you,
+stop flying in the house!
+
+  
+- Hey, Adam.
+- Hey, Barry.
+
+  
+- Is that fuzz gel?
+- A little. Special day, graduation.
+
+  
+Never thought I'd make it.
+
+  
+Three days grade school,
+three days high school.
+
+  
+Those were awkward.
+
+  
+Three days college. I'm glad I took
+a day and hitchhiked around the hive.
+
+  
+You did come back different.
+
+  
+- Hi, Barry.
+- Artie, growing a mustache? Looks good.
+
+  
+- Hear about Frankie?
+- Yeah.
+
+  
+- You going to the funeral?
+- No, I'm not going.
+
+  
+Everybody knows,
+sting someone, you die.
+
+  
+Don't waste it on a squirrel.
+Such a hothead.
+
+  
+I guess he could have
+just gotten out of the way.
+
+  
+I love this incorporating
+an amusement park into our day.
+
+  
+That's why we don't need vacations.
+
+  
+Boy, quite a bit of pomp...
+under the circumstances.
+
+  
+- Well, Adam, today we are men.
+- We are!
+
+  
+- Bee-men.
+- Amen!
+(2021-05-05 23:46:28) [asdf] message deleted: ~say According to all known laws
+of aviation,
+
+  
+there is no way a bee
+should be able to fly.
+
+  
+Its wings are too small to get
+its fat little body off the ground.
+
+  
+The bee, of course, flies anyway
+
+  
+because bees don't care
+what humans think is impossible.
+
+  
+Yellow, black. Yellow, black.
+Yellow, black. Yellow, black.
+
+  
+Ooh, black and yellow!
+Let's shake it up a little.
+
+  
+Barry! Breakfast is ready!
+
+  
+Ooming!
+
+  
+Hang on a second.
+
+  
+Hello?
+
+  
+- Barry?
+- Adam?
+
+  
+- Oan you believe this is happening?
+- I can't. I'll pick you up.
+
+  
+Looking sharp.
+
+  
+Use the stairs. Your father
+paid good money for those.
+
+  
+Sorry. I'm excited.
+
+  
+Here's the graduate.
+We're very proud of you, son.
+
+  
+A perfect report card, all B's.
+
+  
+Very proud.
+
+  
+Ma! I got a thing going here.
+
+  
+- You got lint on your fuzz.
+- Ow! That's me!
+
+  
+- Wave to us! We'll be in row 118,000.
+- Bye!
+
+  
+Barry, I told you,
+stop flying in the house!
+
+  
+- Hey, Adam.
+- Hey, Barry.
+
+  
+- Is that fuzz gel?
+- A little. Special day, graduation.
+
+  
+Never thought I'd make it.
+
+  
+Three days grade school,
+three days high school.
+
+  
+Those were awkward.
+
+  
+Three days college. I'm glad I took
+a day and hitchhiked around the hive.
+
+  
+You did come back different.
+
+  
+- Hi, Barry.
+- Artie, growing a mustache? Looks good.
+
+  
+- Hear about Frankie?
+- Yeah.
+
+  
+- You going to the funeral?
+- No, I'm not going.
+
+  
+Everybody knows,
+sting someone, you die.
+
+  
+Don't waste it on a squirrel.
+Such a hothead.
+
+  
+I guess he could have
+just gotten out of the way.
+
+  
+I love this incorporating
+an amusement park into our day.
+
+  
+That's why we don't need vacations.
+
+  
+Boy, quite a bit of pomp...
+under the circumstances.
+
+  
+- Well, Adam, today we are men.
+- We are!
+
+  
+- Bee-men.
+- Amen!
+(2021-05-05 23:46:54) [asdf] Floy: ~say hi
+(2021-05-05 23:46:54) [asdf] message deleted: ~say hi
+(2021-05-05 23:47:09) [asdf] Floy: ~say :(
+(2021-05-05 23:47:10) [asdf] message deleted: ~say :(
+(2021-05-05 23:47:19) [asdf] Floy: ~sad sad caribou is sad
+(2021-05-05 23:47:26) [asdf] Floy: ~say sad caribou is sad
+(2021-05-05 23:47:26) [asdf] message deleted: ~say sad caribou is sad
+(2021-05-05 23:47:28) [asdf] message deleted: ~sad sad caribou is sad
+(2021-05-05 23:48:31) [asdf] Floy: ~wtf
+(2021-05-05 23:48:31) [asdf] message deleted: ~wtf
+(2021-05-05 23:53:01) [asdf] Floy: ~say they did the sex and I came out, the end.
+(2021-05-05 23:53:02) [asdf] message deleted: ~say they did the sex and I came out, the end.
+(2021-05-05 23:55:23) [asdf] Floy: ~say eeeeeeeeeeeeeeeeee
+(2021-05-05 23:55:23) [asdf] message deleted: ~say eeeeeeeeeeeeeeeeee
+(2021-05-06 00:30:09) [asdf] Floy: ~say uwu
+(2021-05-06 00:30:09) [asdf] message deleted: ~say uwu
+(2021-05-06 00:30:30) [asdf] Floy: ~say oo woo
+(2021-05-06 00:30:31) [asdf] message deleted: ~say oo woo
+(2021-05-06 00:30:53) [asdf] Floy: ~say ohwoah
+(2021-05-06 00:30:54) [asdf] message deleted: ~say ohwoah
+(2021-05-06 00:34:41) [asdf] Floy: ~reload official
+(2021-05-06 00:34:41) [asdf] message deleted: ~reload official
+(2021-05-06 00:36:11) [asdf] Floy: ~reload official
+(2021-05-06 00:36:11) [asdf] message deleted: ~reload official
+(2021-05-06 00:36:22) [asdf] Floy: ~say uu woo
+(2021-05-06 00:36:23) [asdf] message deleted: ~say uu woo
+(2021-05-06 00:37:15) [asdf] Floy: ~reload official
+(2021-05-06 00:37:16) [asdf] message deleted: ~reload official
+(2021-05-06 00:37:19) [asdf] Floy: ~say uu woo
+(2021-05-06 00:37:20) [asdf] message deleted: ~say uu woo
+(2021-05-06 00:38:33) [asdf] Floy: ~reload official
+(2021-05-06 00:38:33) [asdf] message deleted: ~reload official
+(2021-05-06 00:38:58) [asdf] Floy: ~say Cock and ball torture, CBT, penis torture or dick torture is a sexual activity
+(2021-05-06 00:38:59) [asdf] message deleted: ~say Cock and ball torture, CBT, penis torture or dick torture is a sexual activity
+(2021-05-06 22:11:00) [asdf] Floy: ~say why are you muted shan? that is so rude!
+(2021-05-06 22:11:00) [asdf] message deleted: ~say why are you muted shan? that is so rude!
+(2021-05-06 22:11:29) [asdf] Floy: ~say because I can do what I want
+(2021-05-06 22:11:29) [asdf] message deleted: ~say because I can do what I want
+(2021-05-06 22:11:45) [asdf] Floy: ~wtf
+(2021-05-06 22:11:45) [asdf] message deleted: ~wtf
+(2021-05-06 22:12:56) [asdf] Floy: ~welcome back shan! I hope the stream was steady.
+(2021-05-06 22:13:01) [asdf] message deleted: ~welcome back shan! I hope the stream was steady.
+(2021-05-06 22:13:08) [asdf] Floy: ~say welcome back shan! I hope the stream was steady.
+(2021-05-06 22:13:09) [asdf] message deleted: ~say welcome back shan! I hope the stream was steady.
+(2021-05-06 22:13:44) [asdf] Floy: ~help
+(2021-05-06 22:13:44) [asdf] Caribou: 
+(2021-05-11 21:59:38) [asdf] Floy: ~stalk plutoidcos
+(2021-05-11 21:59:38) [asdf] message deleted: ~stalk plutoidcos
+(2021-05-12 20:26:41) [asdf] Floy: ~stalk Donomaxinus
+(2021-05-12 20:26:41) [asdf] message deleted: ~stalk Donomaxinus
